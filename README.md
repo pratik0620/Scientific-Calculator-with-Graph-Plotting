@@ -52,7 +52,7 @@ Screenshots of the Project :-
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/scientific-calculator.git
+git clone https://github.com/pratik0620/Scientific-Calculator-with-Graph-Plotting.git
 cd scientific-calculator
 ```
 
